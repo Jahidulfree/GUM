@@ -213,7 +213,7 @@ else:
     a = ltx
     tag = "AM"
     
-       print('\n\n\033[1;33mLoading asset files ... \033[0;97m')
+       print('\n\033[1;33mLoading asset files ... \033[0;97m')
     v = 5.2
     update = ('5.2')
     update = ('5.2')
